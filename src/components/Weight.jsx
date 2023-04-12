@@ -12,7 +12,7 @@ const Weight = () => {
 
   return (
     <div className="weight__wrapper">
-      <h1 className="weight__h1">Weight Converter</h1>
+      <h1 className="weight__title">Weight Converter</h1>
       <input
         type="number"
         className="weight__input"
